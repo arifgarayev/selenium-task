@@ -39,7 +39,7 @@ Here are some challenges that can be encountered during this task
 ## Grading
 
 - Project fully functional and meets requirements: **50%**
-- Git usage: **10%**
+- VCS (Git) usage: **10%**
 - Complexity, readability, scalability, comments (English only), and implementing best-practices: **20%**
 - Following any OO design pattern: **20%**
 
